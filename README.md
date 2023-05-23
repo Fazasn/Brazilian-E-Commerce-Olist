@@ -1,4 +1,4 @@
-# DeltaGroup_JC_DS_FT_JKT_19_FinalProject
+# Brazilian E-Commerce : Olist - Project
 
 # Dashboard
 Google Looker Studio: https://lookerstudio.google.com/reporting/e19a8dff-8f8f-4cf3-bb56-c8f1e8437fad
